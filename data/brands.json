@@ -1,0 +1,1015 @@
+[
+ {
+  "slug": "workos",
+  "name": "WorkOS",
+  "deals": 24,
+  "creators": [
+   "Acquired (podcast)",
+   "Lenny's Podcast",
+   "Theo Browne (t3.gg)"
+  ],
+  "first": "2025-12-15",
+  "last": "2026-10-19",
+  "stage": "Series C",
+  "funding_detail": "Series C $100M, Mar 2026, $2B",
+  "funding_urls": [
+   "https://workos.com/blog/series-c"
+  ]
+ },
+ {
+  "slug": "sentry",
+  "name": "Sentry",
+  "deals": 13,
+  "creators": [
+   "Acquired (podcast)",
+   "Coding with Lewis",
+   "ThePrimeagen",
+   "Theo Browne (t3.gg)"
+  ],
+  "first": "2025-12-15",
+  "last": "2026-10-19",
+  "stage": "Series E",
+  "funding_detail": "Series E $90M, May 2022, $3B+",
+  "funding_urls": [
+   "https://sentry.io/about/press-releases/sentry-raises-90-million-in-series-e-funding-to-expand-and-drive-adoption-of-developer-first-application-monitoring/"
+  ]
+ },
+ {
+  "slug": "coderabbit",
+  "name": "CodeRabbit",
+  "deals": 12,
+  "creators": [
+   "Fireship",
+   "Kai Lentit (Programmers Are Also Human)",
+   "Theo Browne (t3.gg)",
+   "Traversy Media"
+  ],
+  "first": "2025-07-28",
+  "last": "2026-10-09",
+  "stage": "Series C",
+  "funding_detail": "Series C $143M, Aug 2026, $1.5B",
+  "funding_urls": [
+   "https://www.coderabbit.ai/newsroom/coderabbit-series-c-agentic-change-management"
+  ]
+ },
+ {
+  "slug": "mercury",
+  "name": "Mercury",
+  "deals": 11,
+  "creators": [
+   "Lenny's Podcast"
+  ],
+  "first": "2026-06-28",
+  "last": "2026-09-20",
+  "stage": "Series D",
+  "funding_detail": "Series D $200M, May 2026, $5.2B",
+  "funding_urls": [
+   "https://mercury.com/blog/series-d-announcement"
+  ]
+ },
+ {
+  "slug": "blacksmith",
+  "name": "Blacksmith",
+  "deals": 8,
+  "creators": [
+   "Fireship",
+   "ThePrimeagen",
+   "Theo Browne (t3.gg)"
+  ],
+  "first": "2025-07-03",
+  "last": "2026-10-14",
+  "stage": "Series B",
+  "funding_detail": "Series B $45M (Peak XV), 2026, $550M",
+  "funding_urls": [
+   "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
+  ]
+ },
+ {
+  "slug": "hostinger",
+  "name": "Hostinger",
+  "deals": 7,
+  "creators": [
+   "Coding with Lewis",
+   "Fireship",
+   "NetworkChuck"
+  ],
+  "first": "2025-12-10",
+  "last": "2026-09-07",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "j-p-morgan-payments",
+  "name": "J.P. Morgan Payments",
+  "deals": 6,
+  "creators": [
+   "Acquired (podcast)"
+  ],
+  "first": "2025-11-05",
+  "last": "2026-06-23",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "vanta",
+  "name": "Vanta",
+  "deals": 5,
+  "creators": [
+   "Acquired (podcast)",
+   "Jason Yeager (MyTechCEO)",
+   "Kai Lentit (Programmers Are Also Human)",
+   "Lenny's Podcast"
+  ],
+  "first": "2025-11-05",
+  "last": "2026-07-15",
+  "stage": "Series D",
+  "funding_detail": "Series D $150M, Jul 2025, $4.15B val",
+  "funding_urls": [
+   "https://www.vanta.com/resources/vanta-announces-series-d"
+  ]
+ },
+ {
+  "slug": "servicenow",
+  "name": "ServiceNow",
+  "deals": 5,
+  "creators": [
+   "Acquired (podcast)"
+  ],
+  "first": "2025-11-05",
+  "last": "2026-06-23",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "anthropic-claude",
+  "name": "Anthropic (Claude)",
+  "deals": 4,
+  "creators": [
+   "Acquired (podcast)",
+   "Coding with Lewis"
+  ],
+  "first": "2026-01-26",
+  "last": "2026-10-19",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "dx-getdx-com",
+  "name": "DX (getdx.com)",
+  "deals": 4,
+  "creators": [
+   "Lenny's Podcast"
+  ],
+  "first": "2026-09-27",
+  "last": "2026-10-18",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "sierra",
+  "name": "Sierra",
+  "deals": 4,
+  "creators": [
+   "Acquired (podcast)"
+  ],
+  "first": "2026-01-27",
+  "last": "2026-10-19",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "statsig",
+  "name": "Statsig",
+  "deals": 4,
+  "creators": [
+   "Acquired (podcast)"
+  ],
+  "first": "2026-03-05",
+  "last": "2026-06-23",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "vercel",
+  "name": "Vercel",
+  "deals": 4,
+  "creators": [
+   "Acquired (podcast)"
+  ],
+  "first": "2026-03-05",
+  "last": "2026-06-23",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "jetbrains",
+  "name": "JetBrains",
+  "deals": 3,
+  "creators": [
+   "Coding with Lewis",
+   "Fireship",
+   "Kai Lentit (Programmers Are Also Human)"
+  ],
+  "first": "2025-05-30",
+  "last": "2026-10-15",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "greptile",
+  "name": "Greptile",
+  "deals": 3,
+  "creators": [
+   "Fireship",
+   "Theo Browne (t3.gg)"
+  ],
+  "first": "2026-09-18",
+  "last": "2026-10-06",
+  "stage": "Series B",
+  "funding_detail": "Series B $50M, Oct 19 2026, $750M (Menlo)",
+  "funding_urls": [
+   "https://www.greptile.com/blog/series-b"
+  ]
+ },
+ {
+  "slug": "macroscope",
+  "name": "Macroscope",
+  "deals": 3,
+  "creators": [
+   "Fireship",
+   "Theo Browne (t3.gg)"
+  ],
+  "first": "2026-09-11",
+  "last": "2026-10-18",
+  "stage": "Series A",
+  "funding_detail": "Series A $30M (Lightspeed), Sep 2025",
+  "funding_urls": [
+   "https://siliconangle.com/2025/09/17/macroscope-raises-30m-speed-software-projects-ai/"
+  ]
+ },
+ {
+  "slug": "railway",
+  "name": "Railway",
+  "deals": 3,
+  "creators": [
+   "Fireship",
+   "Kai Lentit (Programmers Are Also Human)"
+  ],
+  "first": "2026-07-23",
+  "last": "2026-09-16",
+  "stage": "Series B",
+  "funding_detail": "Series B $100M, Jan 22 2026 (TQ Ventures)",
+  "funding_urls": [
+   "https://blog.railway.com/p/series-b"
+  ]
+ },
+ {
+  "slug": "supabase",
+  "name": "Supabase",
+  "deals": 3,
+  "creators": [
+   "Coding with Lewis",
+   "Kai Lentit (Programmers Are Also Human)"
+  ],
+  "first": "2026-04-24",
+  "last": "2026-06-23",
+  "stage": "Series F",
+  "funding_detail": "Series F $500M, Jun 2026, ~$10.5B",
+  "funding_urls": [
+   "https://supabase.com/blog/series-f"
+  ]
+ },
+ {
+  "slug": "browserbase",
+  "name": "Browserbase",
+  "deals": 3,
+  "creators": [
+   "Theo Browne (t3.gg)"
+  ],
+  "first": "2026-09-25",
+  "last": "2026-10-20",
+  "stage": "Series B",
+  "funding_detail": "Series B $40M, Jun 2025, $300M",
+  "funding_urls": [
+   "https://browserbase.com/blog/series-b-and-beyond/"
+  ]
+ },
+ {
+  "slug": "general-translation",
+  "name": "General Translation",
+  "deals": 3,
+  "creators": [
+   "Theo Browne (t3.gg)"
+  ],
+  "first": "2026-09-03",
+  "last": "2026-10-07",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "render",
+  "name": "Render",
+  "deals": 3,
+  "creators": [
+   "Traversy Media"
+  ],
+  "first": "2026-05-07",
+  "last": "2026-10-05",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "shopify",
+  "name": "Shopify",
+  "deals": 3,
+  "creators": [
+   "Acquired (podcast)"
+  ],
+  "first": "2025-11-05",
+  "last": "2025-12-15",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "threatlocker",
+  "name": "ThreatLocker",
+  "deals": 3,
+  "creators": [
+   "NetworkChuck"
+  ],
+  "first": "2026-08-21",
+  "last": "2026-09-05",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "apify",
+  "name": "Apify",
+  "deals": 2,
+  "creators": [
+   "Fireship",
+   "Tech With Tim"
+  ],
+  "first": "2026-10-12",
+  "last": "2026-10-16",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "mistral-ai",
+  "name": "Mistral AI",
+  "deals": 2,
+  "creators": [
+   "Coding with Lewis",
+   "Kai Lentit (Programmers Are Also Human)"
+  ],
+  "first": "2026-06-17",
+  "last": "2026-07-02",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "tuple",
+  "name": "Tuple",
+  "deals": 2,
+  "creators": [
+   "ThePrimeagen",
+   "Traversy Media"
+  ],
+  "first": "2026-02-11",
+  "last": "2026-08-13",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "arcade-dev",
+  "name": "Arcade.dev",
+  "deals": 2,
+  "creators": [
+   "Coding with Lewis"
+  ],
+  "first": "2025-08-01",
+  "last": "2025-10-30",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "bitdefender",
+  "name": "Bitdefender",
+  "deals": 2,
+  "creators": [
+   "NetworkChuck"
+  ],
+  "first": "2026-02-20",
+  "last": "2026-08-14",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "boot-dev",
+  "name": "Boot.dev",
+  "deals": 2,
+  "creators": [
+   "Tech With Tim"
+  ],
+  "first": "2026-09-23",
+  "last": "2026-10-14",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "depot",
+  "name": "Depot",
+  "deals": 2,
+  "creators": [
+   "Theo Browne (t3.gg)"
+  ],
+  "first": "2026-09-07",
+  "last": "2026-09-29",
+  "stage": "Series A",
+  "funding_detail": "Series A $10M (Felicis), 2026",
+  "funding_urls": [
+   "https://depot.dev/blog/depot-raises-series-a"
+  ]
+ },
+ {
+  "slug": "flare",
+  "name": "Flare",
+  "deals": 2,
+  "creators": [
+   "NetworkChuck"
+  ],
+  "first": "2026-09-24",
+  "last": "2026-10-05",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "linear",
+  "name": "Linear",
+  "deals": 2,
+  "creators": [
+   "Kai Lentit (Programmers Are Also Human)"
+  ],
+  "first": "2026-06-11",
+  "last": "2026-09-24",
+  "stage": "Series C",
+  "funding_detail": "Series C at $1.25B val (Jun 2025) 2026 employee tender at $2.5B",
+  "funding_urls": [
+   "https://linear.app/now/building-our-way",
+   "https://linear.app/now/sharing-growth-with-the-people-building-linear"
+  ]
+ },
+ {
+  "slug": "openai-chatgpt",
+  "name": "OpenAI (ChatGPT)",
+  "deals": 2,
+  "creators": [
+   "Jason Yeager (MyTechCEO)"
+  ],
+  "first": "2026-10-14",
+  "last": "2026-10-14",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "parallel-web-systems",
+  "name": "Parallel Web Systems",
+  "deals": 2,
+  "creators": [
+   "Theo Browne (t3.gg)"
+  ],
+  "first": "2026-09-23",
+  "last": "2026-10-02",
+  "stage": "Series B",
+  "funding_detail": "Series B $100M, Apr 2026, $2B",
+  "funding_urls": [
+   "https://parallel.ai/blog/series-b"
+  ]
+ },
+ {
+  "slug": "ramp",
+  "name": "Ramp",
+  "deals": 2,
+  "creators": [
+   "Jason Yeager (MyTechCEO)"
+  ],
+  "first": "2026-05-27",
+  "last": "2026-10-09",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "start-dev",
+  "name": "Start.dev",
+  "deals": 2,
+  "creators": [
+   "Traversy Media"
+  ],
+  "first": "2026-08-07",
+  "last": "2026-09-15",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "synthesia",
+  "name": "Synthesia",
+  "deals": 2,
+  "creators": [
+   "Kai Lentit (Programmers Are Also Human)"
+  ],
+  "first": "2026-06-25",
+  "last": "2026-07-01",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "turbopuffer",
+  "name": "turbopuffer",
+  "deals": 2,
+  "creators": [
+   "Kai Lentit (Programmers Are Also Human)"
+  ],
+  "first": "2026-07-29",
+  "last": "2026-10-15",
+  "stage": "Seed",
+  "funding_detail": "Seed (Thrive Capital), Dec 2025; reportedly declined Series A",
+  "funding_urls": [
+   "https://betakit.com/ex-shopify-engineers-raise-fresh-financing-to-scale-turbopuffers-ai-search/"
+  ]
+ },
+ {
+  "slug": "twingate",
+  "name": "Twingate",
+  "deals": 2,
+  "creators": [
+   "NetworkChuck"
+  ],
+  "first": "2026-03-11",
+  "last": "2026-09-03",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "3cx",
+  "name": "3CX",
+  "deals": 1,
+  "creators": [
+   "NetworkChuck"
+  ],
+  "first": "2026-01-23",
+  "last": "2026-01-23",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "agora",
+  "name": "Agora",
+  "deals": 1,
+  "creators": [
+   "Traversy Media"
+  ],
+  "first": "2026-10-12",
+  "last": "2026-10-12",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "bambu-lab",
+  "name": "Bambu Lab",
+  "deals": 1,
+  "creators": [
+   "NetworkChuck"
+  ],
+  "first": "2026-02-06",
+  "last": "2026-02-06",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "blitzy",
+  "name": "Blitzy",
+  "deals": 1,
+  "creators": [
+   "Tech With Tim"
+  ],
+  "first": "2026-09-16",
+  "last": "2026-09-16",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "bluedot-impact",
+  "name": "BlueDot Impact",
+  "deals": 1,
+  "creators": [
+   "Fireship"
+  ],
+  "first": "2026-08-20",
+  "last": "2026-08-20",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "checkmk",
+  "name": "Checkmk",
+  "deals": 1,
+  "creators": [
+   "NetworkChuck"
+  ],
+  "first": "2026-10-12",
+  "last": "2026-10-12",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "clerk",
+  "name": "Clerk",
+  "deals": 1,
+  "creators": [
+   "Theo Browne (t3.gg)"
+  ],
+  "first": "2026-09-27",
+  "last": "2026-09-27",
+  "stage": "Series C",
+  "funding_detail": "Series C $50M (Menlo, Anthology), ~Oct 2025",
+  "funding_urls": [
+   "https://clerk.com/blog/series-c"
+  ]
+ },
+ {
+  "slug": "composio",
+  "name": "Composio",
+  "deals": 1,
+  "creators": [
+   "Tech With Tim"
+  ],
+  "first": "2026-09-17",
+  "last": "2026-09-17",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "crusoe",
+  "name": "Crusoe",
+  "deals": 1,
+  "creators": [
+   "Acquired (podcast)"
+  ],
+  "first": "2026-01-27",
+  "last": "2026-01-27",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "deel",
+  "name": "Deel",
+  "deals": 1,
+  "creators": [
+   "Jason Yeager (MyTechCEO)"
+  ],
+  "first": "2026-07-21",
+  "last": "2026-07-21",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "defense-tech-vc",
+  "name": "Defense Tech VC",
+  "deals": 1,
+  "creators": [
+   "Kai Lentit (Programmers Are Also Human)"
+  ],
+  "first": "2026-06-04",
+  "last": "2026-06-04",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "docker",
+  "name": "Docker",
+  "deals": 1,
+  "creators": [
+   "Web Dev Simplified"
+  ],
+  "first": "2026-06-30",
+  "last": "2026-06-30",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "exa",
+  "name": "Exa",
+  "deals": 1,
+  "creators": [
+   "Fireship"
+  ],
+  "first": "2026-09-01",
+  "last": "2026-09-01",
+  "stage": "Series C",
+  "funding_detail": "Series C $250M, May 2026, $2.2B",
+  "funding_urls": [
+   "https://exa.ai/blog/announcing-series-c"
+  ]
+ },
+ {
+  "slug": "higgsfield-ai",
+  "name": "Higgsfield AI",
+  "deals": 1,
+  "creators": [
+   "Jason Yeager (MyTechCEO)"
+  ],
+  "first": "2026-04-07",
+  "last": "2026-04-07",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "hyperagent",
+  "name": "Hyperagent",
+  "deals": 1,
+  "creators": [
+   "Fireship"
+  ],
+  "first": "2026-08-27",
+  "last": "2026-08-27",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "infinite-red",
+  "name": "Infinite Red",
+  "deals": 1,
+  "creators": [
+   "Theo Browne (t3.gg)"
+  ],
+  "first": "2026-10-16",
+  "last": "2026-10-16",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "kernel",
+  "name": "Kernel",
+  "deals": 1,
+  "creators": [
+   "Fireship"
+  ],
+  "first": "2026-10-07",
+  "last": "2026-10-07",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "lindy",
+  "name": "Lindy",
+  "deals": 1,
+  "creators": [
+   "Jason Yeager (MyTechCEO)"
+  ],
+  "first": "2026-02-01",
+  "last": "2026-02-01",
+  "stage": "Series B (unconfirmed)",
+  "funding_detail": "UNCERTAIN: Series B reported (amount conflicting $35M vs $75M)",
+  "funding_urls": [
+   "https://www.crunchbase.com/funding_round/lindy-series-b--a33eb7ad"
+  ]
+ },
+ {
+  "slug": "memoket",
+  "name": "Memoket",
+  "deals": 1,
+  "creators": [
+   "Tech With Tim"
+  ],
+  "first": "2026-09-30",
+  "last": "2026-09-30",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "micro-center",
+  "name": "Micro Center",
+  "deals": 1,
+  "creators": [
+   "NetworkChuck"
+  ],
+  "first": "2026-09-23",
+  "last": "2026-09-23",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "mobbin",
+  "name": "Mobbin",
+  "deals": 1,
+  "creators": [
+   "Fireship"
+  ],
+  "first": "2026-09-09",
+  "last": "2026-09-09",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "namespace",
+  "name": "Namespace",
+  "deals": 1,
+  "creators": [
+   "Fireship"
+  ],
+  "first": "2026-10-05",
+  "last": "2026-10-05",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "omnigent",
+  "name": "Omnigent",
+  "deals": 1,
+  "creators": [
+   "Fireship"
+  ],
+  "first": "2026-08-11",
+  "last": "2026-08-11",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "openai-codex",
+  "name": "OpenAI (Codex)",
+  "deals": 1,
+  "creators": [
+   "NetworkChuck"
+  ],
+  "first": "2026-06-01",
+  "last": "2026-06-01",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "perplexity",
+  "name": "Perplexity",
+  "deals": 1,
+  "creators": [
+   "NetworkChuck"
+  ],
+  "first": "2026-04-09",
+  "last": "2026-04-09",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "qodo",
+  "name": "Qodo",
+  "deals": 1,
+  "creators": [
+   "Coding with Lewis"
+  ],
+  "first": "2026-02-18",
+  "last": "2026-02-18",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "replit",
+  "name": "Replit",
+  "deals": 1,
+  "creators": [
+   "Coding with Lewis"
+  ],
+  "first": "2025-10-03",
+  "last": "2025-10-03",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "requestly-browserstack",
+  "name": "Requestly (BrowserStack)",
+  "deals": 1,
+  "creators": [
+   "Web Dev Simplified"
+  ],
+  "first": "2026-05-26",
+  "last": "2026-05-26",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "saily",
+  "name": "Saily",
+  "deals": 1,
+  "creators": [
+   "NetworkChuck"
+  ],
+  "first": "2025-12-15",
+  "last": "2025-12-15",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "sevalla",
+  "name": "Sevalla",
+  "deals": 1,
+  "creators": [
+   "Coding with Lewis"
+  ],
+  "first": "2025-06-09",
+  "last": "2025-06-09",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "warp",
+  "name": "Warp",
+  "deals": 1,
+  "creators": [
+   "Traversy Media"
+  ],
+  "first": "2026-03-23",
+  "last": "2026-03-23",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ },
+ {
+  "slug": "wispr-flow",
+  "name": "Wispr Flow",
+  "deals": 1,
+  "creators": [
+   "Jason Yeager (MyTechCEO)"
+  ],
+  "first": "2026-08-13",
+  "last": "2026-08-13",
+  "stage": "Series B",
+  "funding_detail": "Series B $280M, Aug 2026, $2B",
+  "funding_urls": [
+   "https://wisprflow.ai/post/series-b"
+  ]
+ },
+ {
+  "slug": "zed-industries-zed-dev",
+  "name": "Zed Industries (zed.dev)",
+  "deals": 1,
+  "creators": [
+   "Kai Lentit (Programmers Are Also Human)"
+  ],
+  "first": "2025-07-24",
+  "last": "2025-07-24",
+  "stage": "Not checked",
+  "funding_detail": "",
+  "funding_urls": []
+ }
+]

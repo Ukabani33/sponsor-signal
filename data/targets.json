@@ -1,0 +1,346 @@
+{
+ "targets": [
+  {
+   "rank": 1,
+   "brand": "Vanta",
+   "slug": "vanta",
+   "stage_html": "Series D $150M, Jul 2025, $4.15B (<a href=\"https://www.vanta.com/resources/vanta-announces-series-d\" target=\"_blank\" rel=\"noopener\">Vanta</a>). &gt;$300M ARR (<a href=\"https://www.vanta.com/resources/vanta-crosses-300m-in-arr-as-growth-accelerates\" target=\"_blank\" rel=\"noopener\">Vanta</a>)",
+   "evidence_html": "Kai ×2 (Nov 2025, Jun 2026), Jason (Jul 2026), Lenny&#x27;s (Jun 2026), Acquired (Jan 2026)",
+   "kai_html": "<strong>Renewal → series:</strong> &quot;Audit Season&quot;, a 4-part arc where Jackson Jineer survives a SOC 2 audit",
+   "jason_html": "&quot;Head of Compliance&quot;: a recurring character built from his Sep 29 2026 skit",
+   "kai_low": false,
+   "jason_low": false,
+   "renewal": true,
+   "kai_n": 2,
+   "jason_n": 1,
+   "fresh": false,
+   "why": [
+    "Already paid Kai ×2 and Jason ×1 (latest Jul 15, 2026): upsell one-off reads into a funded series."
+   ],
+   "tracked": 5,
+   "in_csv": true
+  },
+  {
+   "rank": 2,
+   "brand": "CodeRabbit",
+   "slug": "coderabbit",
+   "stage_html": "Series C $143M, Aug 2026, $1.5B (<a href=\"https://www.coderabbit.ai/newsroom/coderabbit-series-c-agentic-change-management\" target=\"_blank\" rel=\"noopener\">CodeRabbit</a>)",
+   "evidence_html": "Kai Shorts ×4 (Jul 2025–Feb 2026), Fireship ×2, Theo, Traversy ×4. Also on Jason&#x27;s Pillar list",
+   "kai_html": "&quot;10 Types of Code Reviewers&quot; grows into a season: one reviewer archetype per episode",
+   "jason_html": "CEO tries to &quot;approve the PR himself&quot;",
+   "kai_low": false,
+   "jason_low": false,
+   "renewal": true,
+   "kai_n": 4,
+   "jason_n": 0,
+   "fresh": true,
+   "why": [
+    "Raised Series C $143M, Aug 2026, $1.5B — this quarter; fresh marketing budget.",
+    "Already paid Kai ×4 (latest Feb 19, 2026): upsell one-off reads into a funded series."
+   ],
+   "tracked": 12,
+   "in_csv": true
+  },
+  {
+   "rank": 3,
+   "brand": "Linear",
+   "slug": "linear",
+   "stage_html": "Series C at $1.25B (Jun 2025) (<a href=\"https://linear.app/now/building-our-way\" target=\"_blank\" rel=\"noopener\">Linear</a>). 2026 employee tender at $2.5B (<a href=\"https://linear.app/now/sharing-growth-with-the-people-building-linear\" target=\"_blank\" rel=\"noopener\">Linear</a>)",
+   "evidence_html": "Kai ×2 (Jun, Sep 2026). Listed as a &quot;[Partner]&quot; on TheStandup (not counted as a paid sponsor in the CSV)",
+   "kai_html": "<strong>Renewal → series:</strong> &quot;The Sync&quot;, a sponsored meeting-satire franchise (PTO Call and Status Sync already exist)",
+   "jason_html": "&quot;Roadmap Review with the CEO&quot;",
+   "kai_low": false,
+   "jason_low": false,
+   "renewal": true,
+   "kai_n": 2,
+   "jason_n": 0,
+   "fresh": false,
+   "why": [
+    "Already paid Kai ×2 (latest Sep 24, 2026): upsell one-off reads into a funded series."
+   ],
+   "tracked": 2,
+   "in_csv": true
+  },
+  {
+   "rank": 4,
+   "brand": "Railway",
+   "slug": "railway",
+   "stage_html": "Series B $100M, Jan 2026 (<a href=\"https://blog.railway.com/p/series-b\" target=\"_blank\" rel=\"noopener\">Railway</a>). Railway says this is its first real go-to-market build-out (<a href=\"https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud\" target=\"_blank\" rel=\"noopener\">VentureBeat</a>)",
+   "evidence_html": "Kai (Sep 2026), Fireship ×2 (Jul, Aug 2026)",
+   "kai_html": "&quot;Interview with a ___ in 2026&quot; season where every guest&#x27;s app ships on Railway",
+   "jason_html": "&quot;CEO ships his own app over the weekend&quot;",
+   "kai_low": false,
+   "jason_low": false,
+   "renewal": true,
+   "kai_n": 1,
+   "jason_n": 0,
+   "fresh": false,
+   "why": [
+    "Already paid Kai ×1 (latest Sep 16, 2026): upsell one-off reads into a funded series."
+   ],
+   "tracked": 3,
+   "in_csv": true
+  },
+  {
+   "rank": 5,
+   "brand": "WorkOS",
+   "slug": "workos",
+   "stage_html": "Series C $100M, Mar 2026, $2B (<a href=\"https://workos.com/blog/series-c\" target=\"_blank\" rel=\"noopener\">WorkOS</a>)",
+   "evidence_html": "Lenny&#x27;s (16 episodes, Jun–Oct 2026), Acquired (Fall &#x27;26 partner), Theo ×4. The heaviest spender in the set, not yet on Kai or Jason",
+   "kai_html": "&quot;Enterprise Ready&quot;: a startup tries to close its first Fortune 500 deal (SSO/SCIM jokes)",
+   "jason_html": "CEO vs. enterprise procurement",
+   "kai_low": false,
+   "jason_low": false,
+   "renewal": false,
+   "kai_n": 0,
+   "jason_n": 0,
+   "fresh": false,
+   "why": [
+    "24 tracked placements with Acquired (podcast), Lenny's Podcast, Theo Browne (t3.gg) — proven creator budget, not yet on Kai or Jason."
+   ],
+   "tracked": 24,
+   "in_csv": true
+  },
+  {
+   "rank": 6,
+   "brand": "Wispr Flow",
+   "slug": "wispr-flow",
+   "stage_html": "Series B $280M, Aug 2026, $2B (<a href=\"https://wisprflow.ai/post/series-b\" target=\"_blank\" rel=\"noopener\">Wispr</a>)",
+   "evidence_html": "Jason (Aug 2026 Short)",
+   "kai_html": "&quot;Engineer who refuses to type&quot;",
+   "jason_html": "<strong>Renewal → series:</strong> &quot;The CEO Who Only Talks&quot;, a voice-first exec",
+   "kai_low": false,
+   "jason_low": false,
+   "renewal": true,
+   "kai_n": 0,
+   "jason_n": 1,
+   "fresh": true,
+   "why": [
+    "Raised Series B $280M, Aug 2026, $2B — this quarter; fresh marketing budget.",
+    "Already paid Jason ×1 (latest Aug 13, 2026): upsell one-off reads into a funded series."
+   ],
+   "tracked": 1,
+   "in_csv": true
+  },
+  {
+   "rank": 7,
+   "brand": "Greptile",
+   "slug": "greptile",
+   "stage_html": "Series B $50M, <strong>Oct 19 2026</strong>, $750M (<a href=\"https://www.greptile.com/blog/series-b\" target=\"_blank\" rel=\"noopener\">Greptile</a>). Raised yesterday, so budget is fresh",
+   "evidence_html": "Fireship, Theo ×2",
+   "kai_html": "&quot;War on Bugs&quot;: Jackson Jineer hunts the bug that AI wrote",
+   "jason_html": "&quot;Who approved this?&quot; post-mortem with the CEO",
+   "kai_low": false,
+   "jason_low": false,
+   "renewal": false,
+   "kai_n": 0,
+   "jason_n": 0,
+   "fresh": true,
+   "why": [
+    "Raised Series B $50M, Oct 19 2026, $750M — yesterday; fresh marketing budget.",
+    "3 tracked placements with Fireship, Theo Browne (t3.gg) — proven creator budget, not yet on Kai or Jason."
+   ],
+   "tracked": 3,
+   "in_csv": true
+  },
+  {
+   "rank": 8,
+   "brand": "Blacksmith",
+   "slug": "blacksmith",
+   "stage_html": "Series B $45M, 2026, $550M (<a href=\"https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>)",
+   "evidence_html": "Fireship ×3, Theo ×3, ThePrimeagen",
+   "kai_html": "&quot;CI is still running…&quot;: waiting-room sketches",
+   "jason_html": "Lower fit for Jason",
+   "kai_low": false,
+   "jason_low": true,
+   "renewal": false,
+   "kai_n": 0,
+   "jason_n": 0,
+   "fresh": false,
+   "why": [
+    "8 tracked placements with Fireship, ThePrimeagen, Theo Browne (t3.gg) — proven creator budget, not yet on Kai or Jason."
+   ],
+   "tracked": 8,
+   "in_csv": true
+  },
+  {
+   "rank": 9,
+   "brand": "Mercury",
+   "slug": "mercury",
+   "stage_html": "Series D $200M, May 2026, $5.2B (<a href=\"https://mercury.com/blog/series-d-announcement\" target=\"_blank\" rel=\"noopener\">Mercury</a>)",
+   "evidence_html": "Lenny&#x27;s (11 episodes, Jun–Sep 2026)",
+   "kai_html": "Lower fit for Kai",
+   "jason_html": "Founder banking and runway satire: &quot;Board meeting at 6 months runway&quot;",
+   "kai_low": true,
+   "jason_low": false,
+   "renewal": false,
+   "kai_n": 0,
+   "jason_n": 0,
+   "fresh": false,
+   "why": [
+    "11 tracked placements with Lenny's Podcast — proven creator budget, not yet on Kai or Jason."
+   ],
+   "tracked": 11,
+   "in_csv": true
+  },
+  {
+   "rank": 10,
+   "brand": "Macroscope",
+   "slug": "macroscope",
+   "stage_html": "Series A $30M, Sep 2025 (<a href=\"https://siliconangle.com/2025/09/17/macroscope-raises-30m-speed-software-projects-ai/\" target=\"_blank\" rel=\"noopener\">SiliconANGLE</a>)",
+   "evidence_html": "Fireship, Theo ×2",
+   "kai_html": "&quot;The manager who reads every commit&quot;",
+   "jason_html": "&quot;CEO finally knows what engineering does&quot;: product is exec visibility, so it fits his audience",
+   "kai_low": false,
+   "jason_low": false,
+   "renewal": false,
+   "kai_n": 0,
+   "jason_n": 0,
+   "fresh": false,
+   "why": [
+    "3 tracked placements with Fireship, Theo Browne (t3.gg) — proven creator budget, not yet on Kai or Jason."
+   ],
+   "tracked": 3,
+   "in_csv": true
+  },
+  {
+   "rank": 11,
+   "brand": "Exa",
+   "slug": "exa",
+   "stage_html": "Series C $250M, May 2026, $2.2B (<a href=\"https://exa.ai/blog/announcing-series-c\" target=\"_blank\" rel=\"noopener\">Exa</a>)",
+   "evidence_html": "Fireship (Sep 2026)",
+   "kai_html": "&quot;Interview with an AI agent&#x27;s search engine&quot;",
+   "jason_html": "Lower fit",
+   "kai_low": false,
+   "jason_low": true,
+   "renewal": false,
+   "kai_n": 0,
+   "jason_n": 0,
+   "fresh": false,
+   "why": [
+    "1 tracked placement with Fireship — proven creator budget, not yet on Kai or Jason."
+   ],
+   "tracked": 1,
+   "in_csv": true
+  },
+  {
+   "rank": 12,
+   "brand": "Parallel Web Systems",
+   "slug": "parallel-web-systems",
+   "stage_html": "Series B $100M, Apr 2026, $2B (<a href=\"https://parallel.ai/blog/series-b\" target=\"_blank\" rel=\"noopener\">Parallel</a>)",
+   "evidence_html": "Theo ×2",
+   "kai_html": "&quot;The web&#x27;s second user&quot;: an agent&#x27;s day-in-the-life",
+   "jason_html": "CEO replaces his research team with agents",
+   "kai_low": false,
+   "jason_low": false,
+   "renewal": false,
+   "kai_n": 0,
+   "jason_n": 0,
+   "fresh": false,
+   "why": [
+    "2 tracked placements with Theo Browne (t3.gg) — proven creator budget, not yet on Kai or Jason."
+   ],
+   "tracked": 2,
+   "in_csv": true
+  },
+  {
+   "rank": 13,
+   "brand": "Clerk",
+   "slug": "clerk",
+   "stage_html": "Series C $50M (Menlo, Anthropic Anthology), ~Oct 2025 (<a href=\"https://clerk.com/blog/series-c\" target=\"_blank\" rel=\"noopener\">Clerk</a>)",
+   "evidence_html": "Theo",
+   "kai_html": "&quot;Agent identity crisis&quot;: who logged in, the human or the agent?",
+   "jason_html": "Lower fit",
+   "kai_low": false,
+   "jason_low": true,
+   "renewal": false,
+   "kai_n": 0,
+   "jason_n": 0,
+   "fresh": false,
+   "why": [
+    "1 tracked placement with Theo Browne (t3.gg) — proven creator budget, not yet on Kai or Jason."
+   ],
+   "tracked": 1,
+   "in_csv": true
+  },
+  {
+   "rank": 14,
+   "brand": "Browserbase",
+   "slug": "browserbase",
+   "stage_html": "Series B $40M, Jun 2025, $300M (<a href=\"https://browserbase.com/blog/series-b-and-beyond/\" target=\"_blank\" rel=\"noopener\">Browserbase</a>)",
+   "evidence_html": "Theo ×3",
+   "kai_html": "&quot;AI agent clicks through a cookie banner&quot;",
+   "jason_html": "Lower fit",
+   "kai_low": false,
+   "jason_low": true,
+   "renewal": false,
+   "kai_n": 0,
+   "jason_n": 0,
+   "fresh": false,
+   "why": [
+    "3 tracked placements with Theo Browne (t3.gg) — proven creator budget, not yet on Kai or Jason."
+   ],
+   "tracked": 3,
+   "in_csv": true
+  },
+  {
+   "rank": 15,
+   "brand": "Sentry",
+   "slug": "sentry",
+   "stage_html": "Series E $90M (2022, $3B+; no newer round found) (<a href=\"https://sentry.io/about/press-releases/sentry-raises-90-million-in-series-e-funding-to-expand-and-drive-adoption-of-developer-first-application-monitoring/\" target=\"_blank\" rel=\"noopener\">Sentry</a>)",
+   "evidence_html": "ThePrimeagen ×6, Theo, Coding with Lewis, Acquired (Fall &#x27;26 partner)",
+   "kai_html": "&quot;On-call Engineer&quot; recurring series",
+   "jason_html": "Lower fit",
+   "kai_low": false,
+   "jason_low": true,
+   "renewal": false,
+   "kai_n": 0,
+   "jason_n": 0,
+   "fresh": false,
+   "why": [
+    "13 tracked placements with Acquired (podcast), Coding with Lewis, ThePrimeagen, Theo Browne (t3.gg) — proven creator budget, not yet on Kai or Jason."
+   ],
+   "tracked": 13,
+   "in_csv": true
+  }
+ ],
+ "reserves": [
+  "<strong>Supabase:</strong> Series F $500M, Jun 2026 (<a href=\"https://supabase.com/blog/series-f\" target=\"_blank\" rel=\"noopener\">Supabase</a>). It sponsored Kai (Apr 2026) and Coding with Lewis.",
+  "<strong>turbopuffer:</strong> seed only (<a href=\"https://betakit.com/ex-shopify-engineers-raise-fresh-financing-to-scale-turbopuffers-ai-search/\" target=\"_blank\" rel=\"noopener\">BetaKit</a>). It sponsored Kai twice (Jul, Oct 2026), so it&#x27;s a strong renewal.",
+  "<strong>Depot:</strong> Series A $10M (<a href=\"https://depot.dev/blog/depot-raises-series-a\" target=\"_blank\" rel=\"noopener\">Depot</a>). It sponsored Theo twice.",
+  "<strong>Jason&#x27;s existing late-stage or uncertain sponsors:</strong> Ramp, Deel, OpenAI, Lindy (funding <span class=\"tag warn\">UNCERTAIN</span>), Higgsfield (funding not checked).",
+  "<strong>Not targets:</strong> DX (sponsors Lenny&#x27;s) and Statsig (sponsors Acquired) were reportedly acquired in 2025 by Atlassian and OpenAI respectively. I didn&#x27;t re-verify either acquisition this session."
+ ],
+ "rates": [
+  "<strong>Tech YouTube sponsorship CPM:</strong> typically $25–$60, so 100K views ≈ $2.5K–$6K. Based on 487 creators, recomputed Jun 2026 (<a href=\"https://creatric.io/insights/tech-youtube-benchmarks\" target=\"_blank\" rel=\"noopener\">Creatric</a>).",
+  "<strong>Integrations vs. dedicated videos:</strong> about $25–$60 CPM for integrations and about $40–$80 for dedicated videos (<a href=\"https://outlierkit.com/resources/youtube-sponsorship-rates/\" target=\"_blank\" rel=\"noopener\">OutlierKit</a>). A 60-second integration runs roughly 40–55% of the dedicated rate (<a href=\"https://growcreator.pro/blog/tech-youtube-sponsorship-rates\" target=\"_blank\" rel=\"noopener\">Grow Creator</a>). I didn&#x27;t open these two pages; the figures come from search summaries.",
+  "<strong>Instagram macro tier (100K–500K followers):</strong> about $5K–$15K per Reel; whitelisting and exclusivity are billed separately (<a href=\"https://tallyhq.app/calculator/instagram\" target=\"_blank\" rel=\"noopener\">Tally</a>).",
+  "<strong>Lenny&#x27;s Podcast:</strong> no official rate card. Third-party estimates are about $25–$45 CPM, and MyCoCreator estimates about $3.8K per 60-second read (<a href=\"https://castlytics.app/advertise-on\" target=\"_blank\" rel=\"noopener\">Castlytics</a>, <a href=\"https://mycocreator.ai/tools/sponsorship-rates/LennysPodcast/\" target=\"_blank\" rel=\"noopener\">MyCoCreator</a>, <a href=\"https://www.sponsorradar.io/seo/lennys-podcast-sponsors-and-ad-rates\" target=\"_blank\" rel=\"noopener\">SponsorRadar</a>).",
+  "<strong>Theo (t3.gg):</strong> says he gets 3M+ views a month, that 76% of his audience is over 25, and that 40+ brands have sponsored him. Pricing is by email only (<a href=\"https://soydev.link/sponsor-me\" target=\"_blank\" rel=\"noopener\">soydev.link/sponsor-me</a>).",
+  "<strong>What this means for deal size (my arithmetic):</strong> at a $25–$60 CPM, one Kai video at ~490K median views is roughly <strong>$12K–$30K</strong>. Reaching Stareable&#x27;s <strong>$50K–$500K</strong> deal size takes a multi-episode series across platforms (YouTube long-form, Shorts and IG), plus usage or whitelisting rights. That&#x27;s the case for pitching series rather than reads."
+ ],
+ "creators": {
+  "head": [
+   "",
+   "Kai Lentit — Programmers Are Also Human",
+   "Jason Yeager — MyTechCEO"
+  ],
+  "rows": [
+   [
+    "Audience",
+    "401K YouTube subscribers (yt-dlp pull, Oct 20 2026). 2026 long-form median views ~492K (19 videos); Shorts median ~481K (21). Top video: &quot;AI CEO vs Engineer (2026)&quot; at 2.34M.",
+    "Instagram ~369K followers, 2.49% engagement, 117M impressions over 12 months (<a href=\"https://socialpruf.com/instagram/mytechceo\" target=\"_blank\" rel=\"noopener\">Socialpruf</a>). YouTube 29.7K subscribers, 2026 Shorts median ~235K. Pillar media kit: 513.5K followers across platforms (<a href=\"https://pillar.io/mytechceo/mediakit\" target=\"_blank\" rel=\"noopener\">Pillar</a>)."
+   ],
+   [
+    "Format",
+    "Deadpan mock interviews (&quot;Interview with a ___ in 2026&quot;), meeting satire (&quot;PTO Call&quot;, &quot;Status Sync&quot;, &quot;OKR calibration sync&quot;) and recurring characters (Jackson Jineer, Josh Doe) (<a href=\"https://postcutoff.com/person/kai-lentit/\" target=\"_blank\" rel=\"noopener\">Post-Cutoff</a>). Audience is engineers.",
+    "Short-form satire of startup CEOs and founders (AI-maxxing, token-maxxing, compliance, fundraising). Audience is founders, investors and execs. He also runs Dunbar Capital (<a href=\"https://linkedin.com/in/mytechceo\" target=\"_blank\" rel=\"noopener\">LinkedIn</a>)."
+   ],
+   [
+    "Verified sponsors 2025-26",
+    "Vanta ×2, Linear ×2, turbopuffer ×2, Railway, JetBrains, Mistral, Supabase, CodeRabbit ×4 (Shorts), Zed, Defense Tech VC. Synthesia per <a href=\"https://getsponsored.io/channels/programmersarealsohuman5909\" target=\"_blank\" rel=\"noopener\">getsponsored.io</a> (<span class=\"tag warn\">UNCERTAIN</span>: not disclosed in the description). He says Hetzner was &quot;NOT sponsored&quot;.",
+    "YouTube/IG captions: OpenAI/ChatGPT (Oct 2026), Ramp (May and Oct 2026), Wispr Flow (Aug 2026), Vanta (Jul 2026), Higgsfield (#ad, Apr 2026). Lindy (#lindypartner) and Deel&#x27;s branded series &quot;Accidental HR&quot; (<span class=\"tag warn\">UNCERTAIN</span> dates). Pillar also lists Microsoft, AWS, Lovable, CodeRabbit, Adobe, MoonPay, Solana, Kumospace, Runway and Scribe, without dates."
+   ]
+  ]
+ }
+}

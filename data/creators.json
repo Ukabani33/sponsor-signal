@@ -1,0 +1,98 @@
+[
+ {
+  "slug": "acquired",
+  "name": "Acquired (podcast)",
+  "deals": 40,
+  "brands": 11,
+  "first": "2025-11-05",
+  "last": "2026-10-19"
+ },
+ {
+  "slug": "lenny-s-podcast",
+  "name": "Lenny's Podcast",
+  "deals": 32,
+  "brands": 4,
+  "first": "2026-06-14",
+  "last": "2026-10-18"
+ },
+ {
+  "slug": "theo-browne",
+  "name": "Theo Browne (t3.gg)",
+  "deals": 26,
+  "brands": 12,
+  "first": "2026-09-03",
+  "last": "2026-10-20"
+ },
+ {
+  "slug": "networkchuck",
+  "name": "NetworkChuck",
+  "deals": 21,
+  "brands": 12,
+  "first": "2025-12-10",
+  "last": "2026-10-12"
+ },
+ {
+  "slug": "fireship",
+  "name": "Fireship",
+  "deals": 19,
+  "brands": 15,
+  "first": "2026-07-23",
+  "last": "2026-10-15"
+ },
+ {
+  "slug": "kai-lentit",
+  "name": "Kai Lentit (Programmers Are Also Human)",
+  "deals": 18,
+  "brands": 11,
+  "first": "2025-07-24",
+  "last": "2026-10-15"
+ },
+ {
+  "slug": "traversy-media",
+  "name": "Traversy Media",
+  "deals": 13,
+  "brands": 6,
+  "first": "2025-11-19",
+  "last": "2026-10-12"
+ },
+ {
+  "slug": "coding-with-lewis",
+  "name": "Coding with Lewis",
+  "deals": 12,
+  "brands": 10,
+  "first": "2025-05-30",
+  "last": "2026-07-17"
+ },
+ {
+  "slug": "jason-yeager",
+  "name": "Jason Yeager (MyTechCEO)",
+  "deals": 9,
+  "brands": 7,
+  "first": "2026-02-01",
+  "last": "2026-10-14"
+ },
+ {
+  "slug": "theprimeagen",
+  "name": "ThePrimeagen",
+  "deals": 8,
+  "brands": 3,
+  "first": "2025-07-03",
+  "last": "2026-10-12"
+ },
+ {
+  "slug": "tech-with-tim",
+  "name": "Tech With Tim",
+  "deals": 6,
+  "brands": 5,
+  "first": "2026-09-16",
+  "last": "2026-10-16"
+ },
+ {
+  "slug": "web-dev-simplified",
+  "name": "Web Dev Simplified",
+  "deals": 2,
+  "brands": 2,
+  "first": "2026-05-26",
+  "last": "2026-06-30"
+ }
+]
